@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">QuickPartitionBoot</string>
-    <string name="action_settings">Settings</string>
-    <string name="rs">Reboot System</string>
-    <string name="rb">Reboot Bootloader</string>
-    <string name="rr">Reboot Recovery</string>
-</resources>
