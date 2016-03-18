@@ -31,6 +31,10 @@ import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.TextView;
 
+/**
+ * @author Jaco Malan
+ */
+
 public class Boot extends AppCompatActivity {
 
     @Override
